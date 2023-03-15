@@ -48,7 +48,7 @@
                 android:background="@drawable/edit_radius"
                 android:textColor="@color/black"
                 app:cornerRadius="10dp"
-                android:hint="Amount..."
+                android:hint="@string/amount"
                 app:strokeColor="@color/black"
                 app:strokeWidth="1dp" />
 
@@ -128,7 +128,7 @@
                 android:layout_column="2"
                 android:layout_margin="60dp"
                 android:textColor="@color/black"
-                android:text="CONVERT"
+                android:text="@string/convert"
                 app:strokeColor="@color/black"
                 app:strokeWidth="2px"
                 app:cornerRadius="10dp"
